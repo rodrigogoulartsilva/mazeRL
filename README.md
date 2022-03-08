@@ -6,9 +6,11 @@ After participating on a Reinforcement Learning training day at the Open Data Sc
 
 2- Click on the "Start Training" button to see the mouse learning.
 
-3- 
+![alt text](https://github.com/rodrigogoulartsilva/mazeRL/blob/main/RLabyrinth_BEGIN.gif)
 
+3- After some time the mouse learns how to get to the cheese by experimentation using Q Learning.
 
+![alt text](https://github.com/rodrigogoulartsilva/mazeRL/blob/main/RLabyrinth_END.gif)
 
 
 Built with Python 3.7 and pygame 2.1.2 on Mac
