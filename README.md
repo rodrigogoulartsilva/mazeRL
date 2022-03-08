@@ -12,5 +12,6 @@ After participating on a Reinforcement Learning training day at the Open Data Sc
 
 ![alt text](https://github.com/rodrigogoulartsilva/mazeRL/blob/main/RLabyrinth_END.gif)
 
+4- You can use the training data inside the "training_results" folder.
 
 Built with Python 3.7 and pygame 2.1.2 on MacOS
