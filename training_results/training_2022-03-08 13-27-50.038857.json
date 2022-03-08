@@ -1,0 +1,475 @@
+{
+    "0": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.9,
+        "num_of_steps": 3,
+        "time": 0.195739,
+        "won": 0
+    },
+    "1": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.891,
+        "num_of_steps": 5,
+        "time": 0.281451,
+        "won": 0
+    },
+    "2": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.88209,
+        "num_of_steps": 4,
+        "time": 0.226683,
+        "won": 0
+    },
+    "3": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.8732691,
+        "num_of_steps": 0,
+        "time": 0.044096,
+        "won": 0
+    },
+    "4": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.8645364090000001,
+        "num_of_steps": 8,
+        "time": 0.4081,
+        "won": 0
+    },
+    "5": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.85589104491,
+        "num_of_steps": 5,
+        "time": 0.285004,
+        "won": 0
+    },
+    "6": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.8473321344609,
+        "num_of_steps": 0,
+        "time": 0.050599,
+        "won": 0
+    },
+    "7": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.8388588131162911,
+        "num_of_steps": 5,
+        "time": 0.347374,
+        "won": 0
+    },
+    "8": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.8304702249851281,
+        "num_of_steps": 1,
+        "time": 0.097671,
+        "won": 0
+    },
+    "9": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.8221655227352769,
+        "num_of_steps": 4,
+        "time": 0.250465,
+        "won": 0
+    },
+    "10": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.8139438675079241,
+        "num_of_steps": 7,
+        "time": 0.401156,
+        "won": 0
+    },
+    "11": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.8058044288328449,
+        "num_of_steps": 4,
+        "time": 0.270965,
+        "won": 0
+    },
+    "12": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.7977463845445164,
+        "num_of_steps": 2,
+        "time": 0.146056,
+        "won": 0
+    },
+    "13": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.7897689206990712,
+        "num_of_steps": 0,
+        "time": 0.046645,
+        "won": 0
+    },
+    "14": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.7818712314920805,
+        "num_of_steps": 9,
+        "time": 0.455031,
+        "won": 0
+    },
+    "15": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.7740525191771597,
+        "num_of_steps": 5,
+        "time": 0.281239,
+        "won": 0
+    },
+    "16": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.7663119939853881,
+        "num_of_steps": 1,
+        "time": 0.097413,
+        "won": 0
+    },
+    "17": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.7586488740455342,
+        "num_of_steps": 4,
+        "time": 0.226663,
+        "won": 0
+    },
+    "18": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.7510623853050789,
+        "num_of_steps": 4,
+        "time": 0.243299,
+        "won": 0
+    },
+    "19": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.7435517614520281,
+        "num_of_steps": 9,
+        "time": 0.495038,
+        "won": 0
+    },
+    "20": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.7361162438375077,
+        "num_of_steps": 6,
+        "time": 0.349748,
+        "won": 0
+    },
+    "21": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.7287550813991327,
+        "num_of_steps": 0,
+        "time": 0.047233,
+        "won": 0
+    },
+    "22": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.7214675305851413,
+        "num_of_steps": 6,
+        "time": 0.324084,
+        "won": 0
+    },
+    "23": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.7142528552792899,
+        "num_of_steps": 1,
+        "time": 0.105175,
+        "won": 0
+    },
+    "24": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.707110326726497,
+        "num_of_steps": 8,
+        "time": 0.422996,
+        "won": 0
+    },
+    "25": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.700039223459232,
+        "num_of_steps": 6,
+        "time": 0.317672,
+        "won": 0
+    },
+    "26": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.6930388312246396,
+        "num_of_steps": 13,
+        "time": 0.662818,
+        "won": 0
+    },
+    "27": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.6861084429123933,
+        "num_of_steps": 9,
+        "time": 0.490786,
+        "won": 0
+    },
+    "28": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.6792473584832693,
+        "num_of_steps": 8,
+        "time": 0.450448,
+        "won": 0
+    },
+    "29": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.6724548848984366,
+        "num_of_steps": 4,
+        "time": 0.248241,
+        "won": 0
+    },
+    "30": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.6657303360494523,
+        "num_of_steps": 12,
+        "time": 0.63077,
+        "won": 0
+    },
+    "31": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.6590730326889578,
+        "num_of_steps": 3,
+        "time": 0.194491,
+        "won": 0
+    },
+    "32": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.6524823023620682,
+        "num_of_steps": 8,
+        "time": 0.424942,
+        "won": 0
+    },
+    "33": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.6459574793384475,
+        "num_of_steps": 1,
+        "time": 0.085136,
+        "won": 0
+    },
+    "34": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.6394979045450631,
+        "num_of_steps": 8,
+        "time": 0.399257,
+        "won": 0
+    },
+    "35": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.6331029254996124,
+        "num_of_steps": 13,
+        "time": 0.634081,
+        "won": 0
+    },
+    "36": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.6267718962446163,
+        "num_of_steps": 5,
+        "time": 0.286179,
+        "won": 0
+    },
+    "37": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.6205041772821701,
+        "num_of_steps": 1,
+        "time": 0.093266,
+        "won": 0
+    },
+    "38": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.6142991355093484,
+        "num_of_steps": 2,
+        "time": 0.132813,
+        "won": 0
+    },
+    "39": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.608156144154255,
+        "num_of_steps": 0,
+        "time": 0.048935,
+        "won": 0
+    },
+    "40": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.6020745827127124,
+        "num_of_steps": 4,
+        "time": 0.232869,
+        "won": 0
+    },
+    "41": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.5960538368855853,
+        "num_of_steps": 4,
+        "time": 0.228407,
+        "won": 0
+    },
+    "42": {
+        "average_won": 0.0,
+        "board": [
+            6,
+            6
+        ],
+        "epsilon": 0.5900932985167294,
+        "num_of_steps": 16,
+        "time": 0.797916,
+        "won": 0
+    }
+}
